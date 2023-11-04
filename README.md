@@ -1,5 +1,5 @@
-# Setup scripts 👨🏼‍🚀
-Setup scripts for fast deployment :rocket:✨
+# Custom scripts 👨🏼‍🚀
+Custom scripts for fast deployment :rocket:✨
 
 - [ ] For Kali live
 - [ ] For Kali fresh install
